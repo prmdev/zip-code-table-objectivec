@@ -2,7 +2,7 @@
 //  main.m
 //  ZipCodeTable
 //
-//  Created by Di Kong on 1/26/15.
+//  Created by prmdev on 1/26/15.
 //
 //
 
